@@ -8,7 +8,7 @@ description: >-
 
 ## Dronecode connectors and cable standard
 
-Most interfaces on the RDDRONE-FMUK66 use the JST-GH connectors as specified in the [Dronecode Autopilot Connector Standard](https://wiki.dronecode.org/workgroup/connectors/start). The [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation) interface uses "standard" RC hobby servo connections. These PWM connectors are 3 pins spaced 0.100" apart.
+Most interfaces on the RDDRONE-FMUK66 use the JST-GH connectors as specified in the [Pixhawk Connector Standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf). The [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation) interface uses "standard" RC hobby servo connections. These PWM connectors are 3 pins spaced 0.100" apart.
 
 ![Two different cables with JST-GH connector.](../../.gitbook/assets/cable.jpg)
 
